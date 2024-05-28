@@ -1,0 +1,6 @@
+mm_tkinter.py
+.env
+.venv
+.requirements.txt
+.packages.txt
+__pycache__
